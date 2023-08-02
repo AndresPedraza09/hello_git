@@ -1,1 +1,1 @@
-print("NEW New Hello gitasdasdas")
+print("Im just Ken.")
